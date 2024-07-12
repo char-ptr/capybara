@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "char-ptr",
+        "Name": "Capybara",
+        "Punchline": "i love capybaras",
+        "Description": "i love capybaras",
+        "Tags": [
+            "capybara"
+        ],
+        "InternalName": "Capybara",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/char-ptr/capybara",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 1,
+        "LastUpdate": 1720805774573,
+        "DownloadLinkInstall": "https://github.com/char-ptr/capybara/releases/download/1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/char-ptr/capybara/releases/download/1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/char-ptr/capybara/releases/download/1.0.0/latest.zip"
+    }
+]
