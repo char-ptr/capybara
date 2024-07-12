@@ -1,13 +1,13 @@
 [
     {
         "Author": "char-ptr",
-        "Name": "Capybara",
+        "Name": "CapybaraPlugin",
         "Punchline": "i love capybaras",
         "Description": "i love capybaras",
         "Tags": [
             "capybara"
         ],
-        "InternalName": "Capybara",
+        "InternalName": "CapybaraPlugin",
         "AssemblyVersion": "0.0.0.1",
         "TestingAssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/char-ptr/capybara",
