@@ -2,8 +2,6 @@
 for everyone who uses a plogon to be able to sit on edges: i've basically forked that plugin's functionality to update it to newest dalamud framework (so it works on DT)
 
 ## Information
-Github repo (if u wanna build yourself / check src): https://github.com/char-ptr/capybara
-
 Dalamud repo: https://raw.githubusercontent.com/char-ptr/capybara/master/repo.json
 
 ## how to use?
